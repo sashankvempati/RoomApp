@@ -10,12 +10,32 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 
 
 ### What problem am I trying to solve?
-So here's the problem that I have noticed. I decided to go to the library for a couple of days during final exams week in my college to see the availability of space. Here are the results:
+Here's the problem I noticed in my college. I have heard from people about my college library having almost no spots available during exam seasons like midterms and finals weeks. I decided to go survey the library for a couple of days during final exams week to see the availability of space, and here are the results:
+
+
+
+
+
+For those who do not/ have not gone to ucsd, Each floor represents a different type of study environment. In the first two floors, normal talking and discussion is allowed. Floors 4- 7 allow whispering but overall should quiet. The eighth floor, talking is not allowed at all and should be completely quiet.
+
+As you can see from the pictures above, you can see that floors 1, 2, and 8 are usually the busiest. Based on the type of study environment, my hypothesis is that students like to have active discussion with each other. They also like studying in the 8th floor because there would be no disturbance and has a better ambience compared to other floors.
+
+Based on my observations, I have come up with a few hypotheses: 
+- Students like to have active discussions when studying/ working
+- They would like having a quiet environment
+- They would prefer having a good room ambience when doing work
+
+In order to have all these, reserving study rooms seems like the best option. Except, these reservations get filled up even faster on average.
+
+This is a snapshot I took of the study room reservations webpage on a normal day at 4:00 pm (when there are no exams or major projects due):
+
+
 
 
 
 
 ### What are my customer pain points?
+
 
 ### What are my customer gains?
 
