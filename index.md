@@ -8,46 +8,57 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 
 ### Make workspace availability flexible aound your schedule, not the other way round.
 
-![Image](https://images.squarespace-cdn.com/content/v1/55c91570e4b0b51abdec5452/1519772618960-R0I8HM3RCP395SN9BGCW/ke17ZwdGBToddI8pDm48kCpX2mwG9slVUzQCwhOMrQF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UVDXM9yQ8sG6x3COIEUaadqpk9XPubC0H4MH9Az_c7nPqIjSxZ2rgD2_Fw9U6DWfsg/AR88115.jpg?format=1500w)
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-What problem am I trying to solve?
-
-What are my customer pain points?
-
-What are my customer gains?
+### What problem am I trying to solve?
+So here's the problem that I have noticed. I decided to go to the library for a couple of days during final exams week in my college to see the availability of space. Here are the results:
 
 
 
 
-### Jekyll Themes
+### What are my customer pain points?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sashankvempati/RoomApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### What are my customer gains?
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+#### Benefits of using this service
+- An alternative to coffee shops
+    1. More privacy, more quiet environment, more amenities  
+    2. A more professional setting for some events that need to be scheduled last minute/ within a short period of time  
+
+- More flexible than a Library Study Space
+    1. 24/7 availability *(you can find a room round the clock)*, so the timings will be flexible around your schedule   
+    2. Reserve a room for hours on end *(Anywhere from an hour to the entire day. Library study spaces usually have a 2- 3 hour cap, not guaranteed that you can renew the space. Also, it is not guaranteed that library study spaces are always available until you call the desk, or personally go find out the availability)*   
+    3. Libraries usually require that you are a resident or a student to book an individual study space. This service lets you reserve a space anytime, on demand, as long as you are a verified user.   
+
+- General
+   1. Reserve a room starting from one hour all the way until the next reservation.
+
+#### How this service could be used by customers
+- Work on group projects
+- In- person group meetings/ conferences
+- Off campus interviews for companies, projects, etc., but need a more professional setting than a coffee shop and require
+- Need more amenities than what a library offers (This could vary based on the room)
+- Location- wise: need to wait nearby a specific place but going home is too far away
+- *(Maybe)* Region- specific areas: Bad weather (strong winds, heavy rains, thunderstorms, heat waves, etc.), and need shelter for a couple of hours.
+
+#### Why I'm using residential homes instead of commercially owned buildings like WeWork or Regus
+- Less capital to start off with in the beginning (No huge buildings are required to lease or buy, just security equipment for homes and making sure everything runs smoothly for hosts)
+- Less maintenance costs property taxes, etc. because of no commercial building rentals, so the room costs would be significantly cheaper for users
+- Easier to scale when there is an increase in demand from customers
+- Creates jobs for Gig workers as an extra source of income
+- Residential neighborhoods are spread across the city, so there won't be a problem searching for one nearby (Worst case scenario ~ 8-10 mile radius) ANYWHERE with in the city and its outskirts.
+
+
+##### In the future
+- A place to take rest or a break, but going home is too far away (Diversify the ways in which the rooms are furnished)
+- A place to take a shower (An extra feature that costs extra)
+- Need to freshen up
+- Use rooms as partial/ complete storage facilities for companies like Amazon to reduce delivery time and costs
+
+##### Future Customers
+- Commuters
+- Sports fans, 
+   1. Baseball (Major event: 2022)
+   2. Football (Major events: Superbowl, every year)
+   3. **2028 LA Olympics** - The Jackpot
