@@ -9,7 +9,7 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 ### Make workspace availability flexible aound your schedule, not the other way round.
 
 
-### What problem am I trying to solve?
+### What problem am I trying to solve? [Make this a link]
 Here's the problem I noticed in my college. I have heard from people about my college library having almost no spots available during exam seasons like midterms and finals weeks. I decided to go survey the library for a couple of days during final exams week to see the availability of space, and here are the results:
 
 
@@ -34,10 +34,10 @@ This is a snapshot I took of the study room reservations webpage on a normal day
 
 
 
-### What are my customer pain points?
+### What are my customer pain points? [Make this a link]
 
 
-### What are my customer gains?
+### What are my customer gains? [Make this a link]
 
 
 
@@ -70,7 +70,7 @@ This is a snapshot I took of the study room reservations webpage on a normal day
 - Residential neighborhoods are spread across the city, so there won't be a problem searching for one nearby (Worst case scenario ~ 8-10 mile radius) ANYWHERE with in the city and its outskirts.
 
 
-##### In the future
+##### What I want to do in the future [Make this a link]
 - A place to take rest or a break, but going home is too far away (Diversify the ways in which the rooms are furnished)
 - A place to take a shower (An extra feature that costs extra)
 - Need to freshen up
