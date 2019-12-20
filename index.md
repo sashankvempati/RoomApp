@@ -8,7 +8,7 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 
 ### Make workspace availability flexible aound your schedule, not the other way round.
 
-![Image](file:///Users/sashankvempati/Documents/Downloaded%20photos/2006-2019-0452812227517056833506.jpeg)
+![Image](https://photos.app.goo.gl/T4ytdRv9bXvuq5Qz5)
 
 
 ### Markdown
