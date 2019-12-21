@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/urHoPSN.png)
+![Logo](https://i.imgur.com/ZddkWxa.png)
 
 
 ## What is The RoomApp?
