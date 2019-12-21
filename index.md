@@ -69,3 +69,5 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
    1. Baseball (Major event: 2022)
    2. Football (Major events: Superbowl, every year)
    3. **2028 LA Olympics** - The Jackpot
+   
+### You can find me on [Linkedin](https://www.linkedin.com/in/svempati), and check out [RoomApp's profile](linkedin.com/company/theroomapp)
