@@ -6,11 +6,13 @@ These spaces are rooms in residential houses for maximum availability, convenien
 
 They are furnished like library study spaces/ office spaces, ranging from a casual setting all the way to a conference room- like setting to tailor to a variety of the user needs and demands. We will also include a list of additional amenities (printer, whiteboard, TV, projector, stationary, etc. which all vary by the type of space) to make sure there are plenty of resources in order to get work done.
 
+![Room](https://lh3.googleusercontent.com/RxW2kbw-EOlTIlM8gEvIEsG0iXRPRo3lFFUDeSuYEsa3xh7y57hbCR9U20_66LyKVKgrmLIpkpHgJK9gbB3Y9Skkvd2x9cNbh6zk6xvabrqH5dARkfgdi11mqIdhZQw5nvsoUALIwBTMIYkurEl0rH3xvD-ccj0EFprHqBZolZQnqaVaEMS__05_DUp3YzJX3_kFrHqS881I1hHjMljk54o1W5GyzRN_7QhXFt0DtR47__Af9jad_IuFvfZCfZjLpad-lRLk6V1nUbvrDv9v0kI-HUcDjSIGv4higKliH626-0ttT1w4kfS7pD_CvwPw0LIxnBh_E4pEn1512e6-p7h5cmcNXtx99fC7yhPAnT6rUYZq44BbkK6h9FrA37ynDIYmmXoTE14BC6pyvEXWZSkhS4mcsGRPEuKXB_jupQnCP9_VbrrcrdiO4WTUK2JrPWJEXMSmsVpVxqYOJR9wYA3m6h5OFlk0_zMrTP6Ul3sG0IIV0rAC-cuwYkKxPY4Ww6O5qkHfXT5JrZMnzzDkyqEl_psx1w9qyXa3inBMAycPgP08igNriYcrGC_oYPJmr4BLpbC18buJH1bKn4xzPoxIlwuWDtIP4jyLPjeuz2i5uJJFuFBXuS7H5PIwZamATHzfx4DySWh44TLFVv1gei76fJrnAMZBzSlZwzQIzdhAbbDElrB4CyOF=w1836-h1377-no)
+
 ### Make workspace availability flexible aound your schedule, not the other way round.
 
 
 ### What problem am I trying to solve? [Make this a link]
-Here's the problem I noticed in my college. I have heard from people about my college library having almost no spots available during exam seasons like midterms and finals weeks. I decided to go survey the library for a couple of days during final exams week to see the availability of space, and here are the results:
+Here's the problem I noticed in my college. I have heard from people about my college library having almost no spots available during exam seasons like midterms and finals weeks. I also decided to go survey the library for a couple of days during final exams week to see the availability of space, and here are the results:
 
 **Saturday, 8:00 pm**
 ![Availability on Sat](https://lh3.googleusercontent.com/1M3msA7_BMtvR_uMpjfOeFt8BSxG2DPSt4Mr_qicj3IIHV957Me17d8Z9cZb8FwMHR2ZE6-RMnsl1UbkCP_oca03N906L2RcknksuSc5y9D8Luh2pShvykmVnirbtAMjfDS0Rovol4a3CHrgkheB8e65Avstb-1ZHmL5bHmYaDp3c3-lQe6tkeppcxjqZG0ca0FKmqpZSrRMymheqGxJkyRmQ-xHrr4jvXGk0DIX_ZvjF2-SQXk-w1z8Xh2WGRp5TRwwlsXYtsm0fDdiwLCvG7HuJP0xKR_dIoICCbge1hKhDOKdzVcQDeZtLGFt457AmGm9ks4qG2dQQyXTufOk6aPp1edgY6WA7lCzLAVUQ4FVSw_vRc4bs92qcVGA7ISeME1wS2z5mTV399zEEh3bTp4YeJOo1wS7Hofv4Le782exSLBt4LM4qdavJiBj2BfcIaVkeINk6EIBtPl2E4vOZmE1M9X2uX-ctE2X9nQUmdYXGngZbZ_nuIsOTb0UJv3M-FW32LK8Xk9yNG0R5kxJNkG7SbqRFg43vLFDS_k9BMAHBDEp21OwWAIn9qnZTnM6XgOfstoMPIyhSY9LbCeEyh4DUa35kzwD134aZjPEwY0tVGliEgO7KBJOT61OyYG2FO9_9sLRi_-lfgCoGh_bNsiBVt4Fn5GJzMv_EosptlgQTuDy25s8q6f3=w1888-h1416-no)
@@ -60,15 +62,18 @@ This is a snapshot I took of the study room reservations webpage on a normal day
 #### Benefits of using this service
 - An alternative to coffee shops
     1. More privacy, more quiet environment, more amenities  
-    2. A more professional setting for some events that need to be scheduled last minute/ within a short period of time  
+    2. A more professional setting for some events that need to be scheduled last minute/ within a short period of time. For example, off- campus interviews, presentations.
 
 - More flexible than a Library Study Space
     1. 24/7 availability *(you can find a room round the clock)*, so the timings will be flexible around your schedule   
-    2. Reserve a room for hours on end *(Anywhere from an hour to the entire day. Library study spaces usually have a 2- 3 hour cap, not guaranteed that you can renew the space. Also, it is not guaranteed that library study spaces are always available until you call the desk, or personally go find out the availability)*   
+    2. Reserve a room for hours on end, starting from your preferred time. *(Anywhere from an hour to the entire day. Library study spaces usually have a 2- 3 hour cap, not guaranteed that you can renew the space. Also, it is not guaranteed that library study spaces are always available until you call the desk, or personally go find out the availability)*   
     3. Libraries usually require that you are a resident or a student to book an individual study space. This service lets you reserve a space anytime, on demand, as long as you are a verified user.   
+    
+- A lot more choice for what room to reserve
+    1. You can choose what amenities you would need and the type of workspace that would be the most helpful to you.
 
 - General
-   1. Reserve a room starting from one hour all the way until the next reservation.
+   1. Reserve a room starting from one hour all the way until the next reserved time.
 
 #### How this service could be used by customers
 - Work on group projects
