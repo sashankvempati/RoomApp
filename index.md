@@ -18,11 +18,11 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 
 
 
-### What are my customer pain points and gains? [Make this a link]
+### [What are my customer pain points and gains?](google.com)
 
 ![Workspace](https://image.shutterstock.com/image-photo/desktop-computer-mockup-on-industrial-600w-1148347850.jpg)
 
-#### How **YOU** benefit from using this service
+#### How **YOU** can benefit from this service
 - An alternative to coffee shops
     1. More privacy, more quiet environment, more amenities  
     2. A more professional setting for some events that need to be scheduled last minute/ within a short period of time. For example, off- campus interviews, presentations.
@@ -54,7 +54,7 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 - Residential neighborhoods are spread across the city, so there won't be a problem searching for one nearby (Worst case scenario ~ 8-10 mile radius) ANYWHERE with in the city and its outskirts.
 
 
-##### What I want to do in the future [Make this a link]
+#### [What I want to do in the future](google.com)
 - A place to take rest or a break, but going home is too far away (Diversify the ways in which the rooms are furnished)
 - A place to take a shower (An extra feature that costs extra)
 - Need to freshen up
