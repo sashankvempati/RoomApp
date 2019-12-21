@@ -9,7 +9,7 @@ These spaces are rooms in residential houses for maximum availability, convenien
 
 They are furnished like library study spaces/ office spaces, ranging from a casual setting all the way to a conference room- like setting to tailor to a variety of the user needs and demands. We will also include a list of additional amenities (printer, whiteboard, TV, projector, stationary, etc. which all vary by the type of space) to make sure there are plenty of resources in order to get work done.
 
-![Room](https://lh3.googleusercontent.com/RxW2kbw-EOlTIlM8gEvIEsG0iXRPRo3lFFUDeSuYEsa3xh7y57hbCR9U20_66LyKVKgrmLIpkpHgJK9gbB3Y9Skkvd2x9cNbh6zk6xvabrqH5dARkfgdi11mqIdhZQw5nvsoUALIwBTMIYkurEl0rH3xvD-ccj0EFprHqBZolZQnqaVaEMS__05_DUp3YzJX3_kFrHqS881I1hHjMljk54o1W5GyzRN_7QhXFt0DtR47__Af9jad_IuFvfZCfZjLpad-lRLk6V1nUbvrDv9v0kI-HUcDjSIGv4higKliH626-0ttT1w4kfS7pD_CvwPw0LIxnBh_E4pEn1512e6-p7h5cmcNXtx99fC7yhPAnT6rUYZq44BbkK6h9FrA37ynDIYmmXoTE14BC6pyvEXWZSkhS4mcsGRPEuKXB_jupQnCP9_VbrrcrdiO4WTUK2JrPWJEXMSmsVpVxqYOJR9wYA3m6h5OFlk0_zMrTP6Ul3sG0IIV0rAC-cuwYkKxPY4Ww6O5qkHfXT5JrZMnzzDkyqEl_psx1w9qyXa3inBMAycPgP08igNriYcrGC_oYPJmr4BLpbC18buJH1bKn4xzPoxIlwuWDtIP4jyLPjeuz2i5uJJFuFBXuS7H5PIwZamATHzfx4DySWh44TLFVv1gei76fJrnAMZBzSlZwzQIzdhAbbDElrB4CyOF=w1836-h1377-no)
+![Room](https://i.imgur.com/MhGGsDV.jpg)
 
 ### Make workspace availability flexible aound your schedule, not the other way round.
 
