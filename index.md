@@ -14,7 +14,7 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 ### Make workspace availability flexible aound your schedule, not the other way round.
 
 
-### What problem am I trying to solve? [Make this a link]
+### [What problem am I trying to solve?](https://sashankvempati.github.io/The-RoomApp--challenges/)
 Here's the problem I noticed in my college. I have heard from people about my college library having almost no spots available during exam seasons like midterms and finals weeks. I also decided to go survey the library for a couple of days during final exams week to see the availability of space, and here are the results:
 
 **Saturday, 8:00 pm**
@@ -50,7 +50,7 @@ In order to have all these, reserving study rooms seems like the best option. Ex
 
 This is a snapshot I took of the study room reservations webpage on a normal day at 4:00 pm (when there are no exams or major projects due):
 
-
+[Insert study space reservations here]
 
 
 
