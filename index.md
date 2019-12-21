@@ -18,10 +18,7 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 
 
 
-### What are my customer pain points? [Make this a link]
-
-
-### What are my customer gains? [Make this a link]
+### What are my customer pain points and gains? [Make this a link]
 
 
 
@@ -33,7 +30,7 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 - More flexible than a Library Study Space
     1. 24/7 availability *(you can find a room round the clock)*, so the timings will be flexible around your schedule   
     2. Reserve a room for hours on end, starting from your preferred time. *(Anywhere from an hour to the entire day. Library study spaces usually have a 2- 3 hour cap, so its not guaranteed that you can renew the space. Also, it is not guaranteed that library study spaces will be available at your best time)*   
-    3. Libraries usually require that you are a resident or a student to book an individual study space. This service lets you reserve a space anytime, on demand, as long as you are a verified user.   
+    3. Libraries usually require that you are a resident or a student to book an individual study space. This service lets you reserve a space anytime, anywhere, on demand, as long as you are a verified user.   
     
 - A lot more choice for what room to reserve
     1. You can choose what amenities you would need and the type of workspace that would be the most helpful to you.
@@ -47,7 +44,7 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 - Off campus interviews for companies, projects, etc., but need a more professional setting than a coffee shop and require
 - Need more amenities than what a library offers (This could vary based on the room)
 - Location- wise: need to wait nearby a specific place but going home is too far away
-- *(Maybe)* Region- specific areas: Bad weather (strong winds, heavy rains, thunderstorms, heat waves, etc.), and need shelter for a couple of hours.
+- *(Maybe)* Region- specific areas: Bad weather (strong winds, heavy rains, thunderstorms, heat waves, etc.), and need a place to stay for a couple of hours.
 
 #### Why I'm using residential homes instead of commercially owned buildings like WeWork or Regus
 - Less capital to start off with in the beginning (No huge buildings are required to lease or buy, just security equipment for homes and making sure everything runs smoothly for hosts)
@@ -70,4 +67,4 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
    2. Football (Major events: Superbowl, every year)
    3. **2028 LA Olympics** - The Jackpot
    
-### You can find me on [Linkedin](https://www.linkedin.com/in/svempati)
+### My [Linkedin](https://www.linkedin.com/in/svempati)
