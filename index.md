@@ -20,7 +20,7 @@ They are furnished like library study spaces/ office spaces, ranging from a casu
 
 ### What are my customer pain points and gains? [Make this a link]
 
-
+![Workspace](https://image.shutterstock.com/image-photo/desktop-computer-mockup-on-industrial-600w-1148347850.jpg)
 
 #### How **YOU** benefit from using this service
 - An alternative to coffee shops
