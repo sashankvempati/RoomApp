@@ -5,16 +5,16 @@
 
 ### The RoomApp lets you book private spaces On-Demand, by the hour.
 
-These spaces are rooms in residential houses for maximum availability, convenience, affordability, and scalability.
+These spaces are rooms in residential houses that would be furnished like library study spaces/ office spaces. They could range from a casual setting all the way to a conference room- like setting to tailor to a variety of the user needs and demands. There will also be a list of additional amenities (printer, whiteboard, TV, projector, stationary, software for enhanced workspace collaboration, etc. which all vary by the type of space) to make sure there are plenty of resources in order to get work done.
 
-They are furnished like library study spaces/ office spaces, ranging from a casual setting all the way to a conference room- like setting to tailor to a variety of the user needs and demands. We will also include a list of additional amenities (printer, whiteboard, TV, projector, stationary, etc. which all vary by the type of space) to make sure there are plenty of resources in order to get work done.
+The reason for this is to ensure maximum availability, convenience, affordability, and scalability.
 
 ![Room](https://i.imgur.com/MhGGsDV.jpg)
 
 ### Make workspace availability flexible aound your schedule, not the other way round.
 
 
-### [What problem am I trying to solve?](https://sashankvempati.github.io/The-RoomApp--challenges/)
+### [What problem do I want to solve?](https://sashankvempati.github.io/The-RoomApp--challenges/)
 
 
 
